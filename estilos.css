@@ -38,3 +38,27 @@ body{
   color: #515151;
   text-align: center;
 }
+.mod1{
+  background: rgb(10, 20, 30);
+  
+}
+.mod2
+{
+  background: rgb(15, 50, 60);
+}
+.mod3
+{
+  background: rgb(01, 90, 76);
+}
+.mod4
+{
+  background: rgb(02, 04, 90);
+}
+.rgb
+{
+  background: rgba(0, 0, 0, 0.5);
+}
+.foto
+{
+  background-image: url(characters/Bardock_Artwork.webp);
+}
