@@ -61,4 +61,83 @@ body{
 .foto
 {
   background-image: url(characters/Bardock_Artwork.webp);
+} 
+.foto2
+{
+  background-image: url(characters/Beerus_DBS_Broly_Artwork.webp);
+  background-position: center;
+  
+}
+
+.foto3 
+{
+  background-image: url(characters/Bardock_Artwork.webp);
+  background-size: cover;
+}
+.foto4
+{
+  background-image: url(characters/Freezer.webp);
+  background-attachment: local;
+}
+.foto5 {
+  background: linear-gradient(violet, red, blue);
+}
+.foto6 
+{
+  background: radial-gradient(circle, yellow, red, orange)
+}
+.foto7
+{
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  text-shadow: 2px 2px;
+}
+
+.foto8
+{
+  font-family:
+url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');
+
+}
+.foto9
+{
+  font-size: 18px;
+  font-style: italic;
+  font-weight: bold;
+}
+.foto10
+{
+  font-size: 4rem;
+}
+
+.foto11
+{
+  margin: 4em;
+  padding: 4em;
+}
+.foto13
+{
+  margin: 10px;
+  padding: 1em;
+  border-radius: 0.5rem;
+}
+.foto14
+{
+  width: 40vw;
+  height: 30vh;
+}
+.foto15
+{
+max-width: min-content;
+height: auto;
+}
+.foto16
+{
+  width: 100px;
+  height: 200px;
+  object-fit: contain;
+  display: block;
+  border-radius: 10px;
+  overflow: hidden;
+  text-align: center;
 }
